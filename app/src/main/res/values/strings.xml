@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animall Assignment 2</string>
+
+    <string name="label_author">Author :</string>
+    <string name="label_publisher">Publisher :</string>
+    <string name="label_numpages">Pages :</string>
+</resources>

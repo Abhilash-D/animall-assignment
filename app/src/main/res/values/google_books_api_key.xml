@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="google_books_api_key" templateMergeStrategy="preserve"
+         translatable="false">AIzaSyCaKkPzMz3u_GcgH63D1mNmdDufKDKeu0g</string>
+</resources>
